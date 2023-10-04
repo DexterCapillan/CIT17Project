@@ -10,7 +10,7 @@ echo $another_int."  is the answer<br>";
 $many = 2.2888800;
 $many_2 = 2.2111200;
 $few = $many + $many_2;
-echo $few."  is the answer<br>";
+print("$many + $many_2 = $few<br>");
 //Boolean
 if (TRUE)
  print("This will always print<br>");
