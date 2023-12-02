@@ -1,0 +1,15 @@
+body {
+    line-height: 1.6;
+    color: #333; /* Dark text color */
+    background-color: #f5f5f5; /* Light background color */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #12e1bf; /* Header background color - blue */
+    color: #fff; /* Header text color - white */
+    padding: 20px;
+    text-align: center;
+}
+
